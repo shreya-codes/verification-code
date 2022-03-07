@@ -1,0 +1,34 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Nunito', sans-serif;
+	font-family: 'Poppins', sans-serif;
+}
+.btn {
+	background-color: #100249;
+	border-color: #100249;
+	color: #fff;
+	width: 200px;
+	height: 45px;
+	border-radius: 4px;
+	font-size: 22px;
+	font-weight: 400;
+	margin: 18px 55px;
+	text-transform: uppercase;
+}
+.title {
+	font-weight: bold;
+	margin: 10px 0;
+}
+.container {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	padding: 18px;
+}
+input {
+	border-width: 2px;
+	border-radius: 4px;
+}
