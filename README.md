@@ -1,6 +1,7 @@
 # verification-code
+
 - Pre-requirements
-  - ` Node.js `
+  - `Node.js`
     Installed in the computer.
 - cd into cloned directory.
 
@@ -8,7 +9,8 @@
 
   - **ui** : contains frontend of the application
 
-  - **server** : contains the backend code 
+  - **server** : contains the backend code
+
 - cd into each of the above mentioned directories i.e:ui and server in seperate terminal and,
 
   - Install require dependencies:
@@ -17,3 +19,5 @@
     `npm start`
 
 - Open `http://localhost:3000` in browser, and you can see the messages.
+  ![screenshot](./Screenshot.png)
+  ![screenshot](./Screenshot1.png)
